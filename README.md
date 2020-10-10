@@ -1,7 +1,8 @@
 # Line_following
-cd catkin_ws/src
-git clone https://github.com/Neha-Kurian/Line_following/tree/master.git
-cd ..
+To run the project, follow these steps:</br>
+cd catkin_ws/src </br>
+git clone https://github.com/Neha-Kurian/Line_following/tree/master.git </br>
+cd .. </br>
 catkin_make
-source devel/setup.bash
-roslaunch my_simulations my_world.launch
+source devel/setup.bash</br>
+roslaunch my_simulations my_world.launch</br>
