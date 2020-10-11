@@ -1,7 +1,7 @@
 # Line_following
 To run the project, follow these steps:</br>
 cd catkin_ws/src </br>
-git clone </br>
+git clone the master branch</br>
 cd .. </br>
 catkin_make
 source devel/setup.bash</br>
